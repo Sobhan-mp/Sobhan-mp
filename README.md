@@ -4,10 +4,10 @@
 **Sobhan-mp/Sobhan-mp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Golazo
+- 🔭 I’m currently working on Diary
 - 🌱 I’m currently learning KMP and KMM
-- 👯 I’m looking to collaborate on kotlin repos
-- 💬 Ask me about Android development and Software Architecture
+- 👯 I’m looking to collaborate on kotlin|Java repos
+- 💬 Ask me about Software Development
 - 📫 How to reach me: sobhanmohamadpour@gmail.com
 
 
