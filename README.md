@@ -4,8 +4,8 @@
 **Sobhan-mp/Sobhan-mp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on Diary
-- 🌱 I’m currently learning KMP and KMM
+- 🔭 I’m currently working on Somethings!!!
+- 🌱 I’m currently learning Angular and TS
 - 👯 I’m looking to collaborate on kotlin|Java repos
 - 💬 Ask me about Software Development
 - 📫 How to reach me: sobhanmohamadpour@gmail.com
